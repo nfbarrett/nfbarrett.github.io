@@ -24,21 +24,21 @@ Developed customized reports and dashboards that met the strategic goals of the 
 **Digital River**	_July 2011 - February 2012_ <br>
 Developed and maintained daily, weekly, and monthly sales reporting for online clients. Supported the affiliate program management team to grow affiliate generated revenue. Work with clients and teams to develop and deploy affiliate marketing strategies and plans. Identify areas of improvement through data analysis and performance metrics to provide clients with direction to increase revenue. Work with designers to create and monitor the performance of banners, and other creative elements. Monitor, analyze and report on performance and growth of assigned affiliate sales program.
 <br>
-<!-- #### Part-Time Supervisor
-**UPS**	_October 2003 - July 2011_ <br>
-<br>
-#### Quality Assurance
-**Activision**	_June 2009 - October 2009_ <br>
-<br>
-#### Assistant
-**Minnesota State Lottery**	_January 2000 - January 2003_ <br>
-- Delivered mail, created copies for the company and assisted with misc duties.
-- Stocked and organized the maintenance of the warehouse.
-<br>
-
-#### Sales Associate
-**Kids R Us**	_January 1999 - January 2001_ <br>
-- Controlled activities related to cashing in areas of returns, purchasing, and exchanges.
-- Stocked inventory.
-- Assisted customers.
-<br> -->
+<!-- #### Part-Time Supervisor -->
+<!-- **UPS**	_October 2003 - July 2011_ <br> -->
+<!-- <br> -->
+<!-- #### Quality Assurance -->
+<!-- **Activision**	_June 2009 - October 2009_ <br> -->
+<!-- <br> -->
+<!-- #### Assistant -->
+<!-- **Minnesota State Lottery**	_January 2000 - January 2003_ <br> -->
+<!-- - Delivered mail, created copies for the company and assisted with misc duties. -->
+<!-- - Stocked and organized the maintenance of the warehouse. -->
+<!-- <br> -->
+<!--  -->
+<!-- #### Sales Associate -->
+<!-- **Kids R Us**	_January 1999 - January 2001_ <br> -->
+<!-- - Controlled activities related to cashing in areas of returns, purchasing, and exchanges. -->
+<!-- - Stocked inventory. -->
+<!-- - Assisted customers. -->
+<!-- <br> -->
