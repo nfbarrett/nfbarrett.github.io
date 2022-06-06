@@ -5,7 +5,7 @@ subtitle:
 cover-img: /assets/img/citizen-kane-cover.jpg
 thumbnail-img: /assets/img/citizen-kane-thumb.jpg
 categories: [review,movie]
-tags: [drama,mystery,criterion]
+tags: [drama,mystery,criterion,lorem ipsum]
 comments: false
 ---
 
