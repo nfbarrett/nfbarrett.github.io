@@ -2,14 +2,12 @@
 layout: post
 title:  "Citizen Kane (1941)"
 subtitle:
-cover-img: /assets/img/citizen-kane-cover.jpg
-thumbnail-img: /assets/img/citizen-kane-thumb.jpg
 categories: [review,movie]
 tags: [drama,mystery,criterion,lorem ipsum]
 comments: false
 ---
 
-![image](/assets/img/citizen-kane-cover.jpg)
+![image](https://s3.amazonaws.com/criterion-production/films/5e58f4effd7ec074436c3cefccc76e6f/Yp6qC4kg4JLjjqcNdK8RAVM8eK2qnR_large.jpg)
 
 # Review
 

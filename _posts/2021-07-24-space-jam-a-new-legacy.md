@@ -2,9 +2,6 @@
 layout: post
 title:  "Space Jam: A New Legacy (2021)"
 subtitle: Directed by Malcolm D. Lee
-cover-img: /assets/img/space-jam-new-legacy-cover.jpg
-thumbnail-img: /assets/img/space-jam-new-legacy-thumb.jpg
-share-img: /assets/img/path.jpg
 categories: [review,movie]
 tags: [science-fiction,comedy,family,animation,theater,"2021",lorem ipsum]
 comments: false

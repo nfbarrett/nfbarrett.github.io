@@ -2,11 +2,8 @@
 layout: post
 title:  "Sneakerella (2022)"
 subtitle:
-cover-img: /assets/img/sneakerella-cover.png
-thumbnail-img: /assets/img/sneakerella-thumb.jpg
-share-img: /assets/img/path.jpg
 categories: [review,movie]
-tags: [comedy,family,music,disney,disney+,"2022"]
+tags: [comedy,family,music,disney,disney+,"2022",lorem ipsum]
 comments: false
 ---
 

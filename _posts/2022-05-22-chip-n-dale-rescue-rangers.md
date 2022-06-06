@@ -2,13 +2,12 @@
 layout: post
 title:  "Chip ’n Dale: Rescue Rangers (2022)"
 subtitle:
-cover-img: /assets/img/chip-n-dale-rescue-rangers-cover.jpg
-thumbnail-img: /assets/img/chip-n-dale-rescue-rangers-thumb.jpg
-share-img: /assets/img/path.jpg
 categories: [review,movie]
-tags: [mystery,family,animation,adventure,comedy,disney,disney+,"2022"]
+tags: [mystery,family,animation,adventure,comedy,disney,disney+,"2022",lorem ipsum]
 comments: false
 ---
+
+
 
 # Review
 

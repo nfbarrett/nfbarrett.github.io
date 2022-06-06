@@ -2,9 +2,6 @@
 layout: post
 title:  "Derek DelGaudio’s In & of Itself (2020)"
 subtitle: Directed by Frank Oz
-cover-img: https://a.ltrbxd.com/resized/film-poster/6/0/5/8/3/8/605838-in-of-itself-0-460-0-690-crop.jpg?k=07dac4a492
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
 categories: [review,movie]
 tags: [documentary,lorem ipsum]
 comments: false

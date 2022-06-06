@@ -23,7 +23,7 @@ timezone:
 
 title: Nick Barrett                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Stuff I care to share   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -41,14 +41,14 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Nick
-  email: example@doamin.com             # change to your email address
+  email: nick@nickbarrett.me             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/nickbarrett      # change to your twitter homepage
     - https://github.com/nfbarrett       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/nickbarrett
+    - https://www.linkedin.com/in/nfbarrett
 
 google_site_verification:               # fill in to your verification string
 
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/286987?v=4
 
 # boolean type, the global switch for ToC in posts.
 toc: true
