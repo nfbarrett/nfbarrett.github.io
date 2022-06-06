@@ -6,7 +6,7 @@ cover-img: https://a.ltrbxd.com/resized/film-poster/6/0/5/8/3/8/605838-in-of-its
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 categories: [review,movie]
-tags: [documentary]
+tags: [documentary,lorem ipsum]
 comments: false
 ---
 
