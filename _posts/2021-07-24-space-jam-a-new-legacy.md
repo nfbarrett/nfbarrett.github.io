@@ -6,7 +6,7 @@ cover-img: /assets/img/space-jam-new-legacy-cover.jpg
 thumbnail-img: /assets/img/space-jam-new-legacy-thumb.jpg
 share-img: /assets/img/path.jpg
 categories: [review,movie]
-tags: [science-fiction,comedy,family,animation,theater,"2021"]
+tags: [science-fiction,comedy,family,animation,theater,"2021",lorem ipsum]
 comments: false
 ---
 
