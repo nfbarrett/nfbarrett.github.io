@@ -3,7 +3,7 @@ layout: post
 title:  "Sneakerella (2022)"
 subtitle:
 categories: [review,movie]
-tags: [comedy,family,music,disney,disney+,"2022",lorem ipsum]
+tags: [comedy,family,music,disney,disney+,"2022",lorem ipsum,⭐⭐⭐]
 comments: false
 ---
 
