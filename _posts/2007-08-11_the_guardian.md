@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "The Guardian"
-categories: [life,lego]
+categories: [life]
+tags: [lego]
 comments: false
 ---
 
