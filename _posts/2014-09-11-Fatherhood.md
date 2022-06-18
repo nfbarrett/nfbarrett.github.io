@@ -2,7 +2,8 @@
 layout: post
 title:  "Fatherhood"
 categories: [life,family]
-comments: true
+tags: [dad,daughter,family,]
+comments: false
 ---
 
 1 year ago today, I became a father. It was the greatest thing to happen in my life, followed closely by my wedding day. I know it sounds corny, but it’s true. I’ve heard people say having kids changes your life, but you never really think it will until it happens to you, and then you are forever changed.
