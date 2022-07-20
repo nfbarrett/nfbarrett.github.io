@@ -9,9 +9,9 @@ tags: [game, review]
 comments: false
 ---
 
-----|----
+-|-
 --: | :--
-Film | Vampire Survivors
+Game | Vampire Survivors
 Directed | Name
 Year | 2021
 My Rating | ⭐⭐⭐⭐

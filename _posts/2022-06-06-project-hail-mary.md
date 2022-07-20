@@ -30,4 +30,10 @@ My Rating | ⭐⭐⭐⭐⭐
 
 [Insert Review]
 
-[Originally posted on Goodreads](https://www.goodreads.com/book/show/54493401-project-hail-mary)
+[Originally posted on Goodreads](https://www.goodreads.com/review/show/4039914166)
+
+<a href="https://www.goodreads.com/book/show/54493401-project-hail-mary" style="float: left; padding-right: 20px"><img border="0" alt="Project Hail Mary" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597695864l/54493401._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/54493401-project-hail-mary">Project Hail Mary</a> by <a href="https://www.goodreads.com/author/show/6540057.Andy_Weir">Andy Weir</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/4039914166">5 of 5 stars</a><br /><br />
+
+<br/><br/>
+<a href="https://www.goodreads.com/review/list/38832432-nick">View all my reviews</a>
