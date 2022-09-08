@@ -3,7 +3,7 @@ layout: post
 title:  "📖 Project Hail Mary (2021)"
 subtitle:
 categories: [review,book,audible]
-tags: [book,science-fiction,fiction,fantasy,adult,thriller,science-fiction-fantasy,mystery,adventure,comedy,"2021",audible,⭐⭐⭐⭐⭐,andy weir,lorem ipsum]
+tags: [book,science-fiction,fiction,fantasy,adult,thriller,science-fiction-fantasy,mystery,adventure,comedy,"2021",audible,andy weir,lorem ipsum]
 comments: false
 ---
 

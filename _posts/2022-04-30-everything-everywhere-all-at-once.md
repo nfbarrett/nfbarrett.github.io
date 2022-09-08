@@ -6,7 +6,7 @@ cover-img: /assets/img/everything-everywhere-all-at-once-cover.jpg
 thumbnail-img: /assets/img/everything-everywhere-all-at-once-thumb.jpg
 share-img: /assets/img/path.jpg
 categories: [review,movie]
-tags: [film,🎞️,adventure,action,science-fiction,theater,"2022",lorem ipsum,⭐⭐⭐]
+tags: [filmS,adventure,action,science-fiction,theater,"2022",lorem ipsum]
 comments: false
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "🎞️ Chip ’n Dale: Rescue Rangers (2022)"
 subtitle:
 categories: [review,movie]
-tags: [film,mystery,family,animation,adventure,comedy,disney,stream,disney-plus,"2022",lorem ipsum,⭐⭐⭐⭐,film]
+tags: [film,mystery,family,animation,adventure,comedy,disney,stream,disney-plus,"2022",lorem ipsum,film]
 comments: false
 ---
 

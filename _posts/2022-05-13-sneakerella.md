@@ -3,7 +3,7 @@ layout: post
 title:  "🎞️ Sneakerella (2022)"
 subtitle:
 categories: [review,movie]
-tags: [film,🎞️,comedy,family,music,disney,stream,disney-plus,"2022",lorem ipsum,⭐⭐⭐]
+tags: [film,Scomedy,family,music,disney,stream,disney-plus,"2022",lorem ipsum]
 comments: false
 ---
 
