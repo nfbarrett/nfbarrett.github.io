@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Review] Vampire Survivors (2021)"
+title:  "🎮 Vampire Survivors (2021)"
 subtitle:
 cover-img: /assets/img/cover.png
 thumbnail-img: /assets/img/thumb.png
