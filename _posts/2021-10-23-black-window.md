@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Review] Black Widow (2021)"
+title:  "🎞️ Black Widow (2021)"
 subtitle: "Director by Cate Shortland"
 cover-img: /assets/img/black-widow-cover.jpg
 thumbnail-img: /assets/img/black-widow-thumb.jpg
