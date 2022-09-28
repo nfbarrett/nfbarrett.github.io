@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Citizen Kane (1941)"
+title:  "🎞️ Citizen Kane (1941)"
 subtitle:
 categories: [review,movie]
 tags: [film,drama,mystery,criterion,"1941",lorem ipsum]
