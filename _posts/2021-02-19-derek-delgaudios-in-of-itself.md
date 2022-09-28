@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Derek DelGaudio’s In & of Itself (2020)"
+title:  "🎞️ Derek DelGaudio’s In & of Itself (2020)"
 subtitle: Directed by Frank Oz
 categories: [review,movie]
 tags: [film,stream,hulu,documentary,lorem ipsum]
