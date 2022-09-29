@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Guardian"
+title:  "👨 The Guardian"
 categories: [life]
 tags: [lego]
 comments: false
