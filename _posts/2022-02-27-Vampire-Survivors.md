@@ -2,9 +2,9 @@
 layout: post
 title:  "🎮 Vampire Survivors (2021)"
 subtitle:
-cover-img: /assets/img/cover.png
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/images/cover.png
+thumbnail-img: /assets/images/thumb.png
+share-img: /assets/images/path.jpg
 tags: [game, review]
 comments: false
 ---
@@ -17,5 +17,10 @@ Year | 2021
 My Rating | ⭐⭐⭐⭐
 
 Review
+
+![achievement stats](/assets/images/vs-achievement-stats.jpg)
+
+https://steamcommunity.com/id/NickBarrett/stats/1794680/?tab=achievements
+
 
 [Originally posted on Steam](https://letterboxd.com/nickbarrett/film/derek-delgaudios-in-of-itself/)
