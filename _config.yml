@@ -37,6 +37,9 @@ github:
 twitter:
   username: nickbarrett            # change to your twitter username
 
+mastodon:
+  username: nickbarrett@infosec.exchange            # change to your twitter username
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -49,6 +52,7 @@ social:
     # Uncomment below to add more social links
     - https://www.facebook.com/nickbarrett
     - https://www.linkedin.com/in/nfbarrett
+    - <a rel="me" href="https://infosec.exchange/@nickbarrett">Mastodon</a>
 
 google_site_verification:               # fill in to your verification string
 
