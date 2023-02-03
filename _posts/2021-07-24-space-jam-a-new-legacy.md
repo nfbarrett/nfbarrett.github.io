@@ -7,7 +7,7 @@ tags: [film,science-fiction,comedy,family,animation,theater,"2021",spoilers]
 comments: false
 ---
 
-![image](https://a.ltrbxd.com/resized/film-poster/3/1/4/8/8/3/314883-space-jam-a-new-legacy-0-230-0-345-crop.jpg?v=c640006c01)
+![image](https://a.ltrbxd.com/resized/film-poster/3/1/4/8/8/3/314883-space-jam-a-new-legacy-0-230-0-345-crop.jpg)
 
 # Review
 

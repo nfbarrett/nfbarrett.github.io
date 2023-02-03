@@ -7,7 +7,7 @@ tags: [film,stream,hulu,documentary]
 comments: false
 ---
 
-![image](https://a.ltrbxd.com/resized/film-poster/6/0/5/8/3/8/605838-in-of-itself-0-230-0-345-crop.jpg?v=a9a03cd75c)
+![image](https://a.ltrbxd.com/resized/film-poster/6/0/5/8/3/8/605838-in-of-itself-0-230-0-345-crop.jpg)
 
 # Review
 
