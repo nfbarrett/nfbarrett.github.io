@@ -23,6 +23,7 @@ In conclusion, the Bobiverse series is a must-read for anyone who loves science 
 
 
 ![image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493518741l/35014337._SY475_.jpg)
+
 ----|----
 --: | :--
 Book | We Are Legion (We Are Bob)
@@ -33,6 +34,7 @@ My Rating | ⭐⭐⭐
 [Insert Review]
 
 ![image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654566852l/34153598._SY475_.jpg)
+
 ----|----
 --: | :--
 Book | For We Are Many
@@ -43,6 +45,7 @@ My Rating | ⭐⭐⭐
 [Insert Review]
 
 ![image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654566914l/35506021._SY475_.jpg)
+
 ----|----
 --: | :--
 Book | All These Worlds
@@ -53,6 +56,7 @@ My Rating | ⭐⭐⭐
 [Insert Review]
 
 ![image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1606617336l/56078386._SY475_.jpg)
+
 ----|----
 --: | :--
 Book | Heaven's River
