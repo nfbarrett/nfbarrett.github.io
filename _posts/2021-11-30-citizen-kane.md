@@ -2,24 +2,56 @@
 layout: post
 title:  "🎞️ Citizen Kane (1941)"
 subtitle:
-categories: [review,movie]
-tags: [film,drama,mystery,criterion,"1941",lorem ipsum]
+categories: [review,movie,ChatGPT]
+tags: [film,drama,mystery,criterion,"1941",ChatGPT]
 comments: false
 ---
 
-![image](https://s3.amazonaws.com/criterion-production/films/5e58f4effd7ec074436c3cefccc76e6f/Yp6qC4kg4JLjjqcNdK8RAVM8eK2qnR_large.jpg)
-
 # Review
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus, quam id finibus fermentum, risus quam varius felis, nec porttitor sapien orci quis est. Donec mattis mi eget purus dictum, eu tincidunt risus rutrum. Suspendisse ac euismod ipsum. Nunc venenatis mattis dictum. Sed lobortis sagittis leo, eu dignissim massa efficitur vitae. Nam eu pretium ante. Suspendisse auctor, enim ac laoreet varius, enim felis dictum sem, in elementum erat nisi sit amet lorem. Sed et fringilla arcu, maximus pretium tellus.
+<details>
+  <summary>Original from ChatGPT</summary>
 
-Nullam semper orci ex, non euismod lorem consectetur quis. Duis porta diam ullamcorper arcu condimentum, ut placerat sapien dignissim. Curabitur orci est, condimentum et risus eu, tincidunt efficitur sapien. Sed pellentesque gravida orci quis luctus. Vivamus varius diam eget elit auctor molestie. Duis congue nisl non massa laoreet sollicitudin. Proin sit amet sodales mi, a dictum velit.
+## prompt
+```
+write a blog post about film Citizen Kane (1941) on criterion blu-ray where I rate it 3 out of 5 stars
+```
+## response
 
-Cras metus sem, blandit vitae massa rhoncus, tristique cursus est. Nullam fringilla urna vel tellus imperdiet fringilla. Phasellus nec scelerisque lectus. Nam sollicitudin placerat accumsan. Nullam at odio et lacus semper posuere id efficitur nulla. Nulla facilisi. Suspendisse ante lectus, imperdiet non viverra eu, placerat non felis. Maecenas pharetra enim a enim commodo, quis tincidunt sem accumsan. Mauris tortor ipsum, facilisis eget facilisis et, porttitor nec arcu. Proin orci lacus, blandit nec eros nec, faucibus scelerisque nunc. Etiam vel aliquam enim. Suspendisse non tortor ornare, lobortis ante at, elementum ligula.
+```
+Citizen Kane: A Timeless Classic on Criterion Blu-Ray
 
-Nullam id nibh cursus, elementum nibh eu, tincidunt lacus. Cras eu eros commodo, porttitor massa et, cursus mauris. Sed finibus blandit suscipit. Vivamus sed maximus velit, in maximus ante. Pellentesque gravida, tortor sit amet molestie elementum, ligula magna porta tellus, vitae porttitor purus sapien consequat urna. Fusce a tincidunt lectus. Ut sit amet felis vel mi viverra ultricies. Fusce molestie elit odio, at luctus orci sollicitudin quis. Proin tincidunt pretium ex sed venenatis. Nam elementum risus et neque semper, eget commodo sapien finibus. Sed eleifend accumsan tortor non viverra. Proin nec libero nec enim consequat porttitor quis ut metus. Morbi magna tortor, sollicitudin sed placerat in, congue sit amet ligula. Donec egestas, nulla vel accumsan vehicula, leo magna eleifend urna, in varius nisl lacus ac dui. Suspendisse bibendum imperdiet risus id blandit. Sed ut elit vitae sapien fermentum interdum eget ac leo.
+Orson Welles’ Citizen Kane is widely considered one of the greatest films of all time, and for good reason. The film is a tour-de-force of filmmaking, with its innovative cinematography, groundbreaking use of sound, and exceptional storytelling. The film is a true testament to Welles’ talent and creativity.
 
-Aliquam lacinia lacinia orci, a viverra libero iaculis eu. Praesent eu mattis leo. Pellentesque elementum rhoncus lorem molestie lacinia. Quisque vestibulum eros eget ultrices congue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus in lacinia risus. Duis id enim sagittis, porta metus id, feugiat dui. Aliquam convallis nisl eros, eu accumsan enim efficitur consectetur. Fusce eu hendrerit tortor, sit amet posuere diam. Vivamus pellentesque tristique enim, sit amet fermentum arcu consectetur et. Donec in maximus ligula. Phasellus sed ipsum eget augue imperdiet consectetur. In fringilla, quam vel vulputate fermentum, purus quam tempor felis, nec interdum dui ligula ac lacus. 
+Recently, Citizen Kane was re-released on Criterion Blu-Ray, offering fans and new viewers alike a chance to experience the film in high-definition glory. The transfer is simply stunning, with crystal clear images and vibrant colors that bring the film to life like never before. The film’s cinematography, with its striking use of light and shadow, is especially well-suited to the high-def format, and the image quality is nothing short of stunning.
+
+The Criterion Blu-Ray release of Citizen Kane also includes a wealth of bonus features, including audio commentaries, behind-the-scenes footage, and an in-depth documentary about the making of the film. These features provide insight into the film’s production, as well as a deeper understanding of Welles’ vision for the film.
+
+Despite its many merits, Citizen Kane is not without its flaws. The film’s narrative can be confusing at times, and the film’s politics are often heavy-handed. The film’s length may also be off-putting to some viewers, with its two-hour runtime requiring a bit of patience and dedication.
+
+Despite these flaws, Citizen Kane remains an important and influential film that is well worth watching. For fans of cinema, the Criterion Blu-Ray release of Citizen Kane is an absolute must-have.
+
+Overall, I rate Citizen Kane 3 out of 5 stars. The film’s technical innovations, exceptional storytelling, and brilliant performances make it a timeless classic, but its flaws and heavy-handed politics prevent it from being a perfect film. Nevertheless, Citizen Kane is a film that is well worth experiencing, and the Criterion Blu-Ray release is the best way to do so.
+```
+
+---
+</details>
+
+Citizen Kane: A Timeless Classic on Criterion Blu-Ray
+
+Orson Welles’ Citizen Kane is widely considered one of the greatest films of all time, and for good reason. The film is a tour-de-force of filmmaking, with its innovative cinematography, groundbreaking use of sound, and exceptional storytelling. The film is a true testament to Welles’ talent and creativity.
+
+Recently, Citizen Kane was re-released on Criterion Blu-Ray, offering fans and new viewers alike a chance to experience the film in high-definition glory. The transfer is simply stunning, with crystal clear images and vibrant colors that bring the film to life like never before. The film’s cinematography, with its striking use of light and shadow, is especially well-suited to the high-def format, and the image quality is nothing short of stunning.
+
+The Criterion Blu-Ray release of Citizen Kane also includes a wealth of bonus features, including audio commentaries, behind-the-scenes footage, and an in-depth documentary about the making of the film. These features provide insight into the film’s production, as well as a deeper understanding of Welles’ vision for the film.
+
+Despite its many merits, Citizen Kane is not without its flaws. The film’s narrative can be confusing at times, and the film’s politics are often heavy-handed. The film’s length may also be off-putting to some viewers, with its two-hour runtime requiring a bit of patience and dedication.
+
+Despite these flaws, Citizen Kane remains an important and influential film that is well worth watching. For fans of cinema, the Criterion Blu-Ray release of Citizen Kane is an absolute must-have.
+
+Overall, I rate Citizen Kane 3 out of 5 stars. The film’s technical innovations, exceptional storytelling, and brilliant performances make it a timeless classic, but its flaws and heavy-handed politics prevent it from being a perfect film. Nevertheless, Citizen Kane is a film that is well worth experiencing, and the Criterion Blu-Ray release is the best way to do so.
+
+![image](https://s3.amazonaws.com/criterion-production/films/5e58f4effd7ec074436c3cefccc76e6f/Yp6qC4kg4JLjjqcNdK8RAVM8eK2qnR_large.jpg)
 
 ----|----
 --: | :--
@@ -28,6 +60,5 @@ Directed | Orson Welles
 Year | 1941
 My Rating | ⭐⭐⭐
 
-### Review
 
 [Originally posted on Letterboxd](https://letterboxd.com/nickbarrett/film/citizen-kane/)
