@@ -2,7 +2,7 @@
 layout: post
 title:  "👨 The Guardian"
 categories: [life]
-tags: [lego]
+tags: [lego,guardian]
 comments: false
 ---
 

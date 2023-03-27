@@ -5,7 +5,7 @@ subtitle:
 cover-img: /assets/images/cover.png
 thumbnail-img: /assets/images/thumb.png
 share-img: /assets/images/path.jpg
-tags: [game, review]
+tags: [game, review,"2021"]
 comments: false
 ---
 

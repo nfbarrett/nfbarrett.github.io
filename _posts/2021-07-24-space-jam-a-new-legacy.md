@@ -11,6 +11,8 @@ comments: false
 
 # Review
 
+>! This is spoiler text
+
 _This review may contain spoilers._
 
 It was fun.

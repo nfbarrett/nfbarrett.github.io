@@ -6,7 +6,7 @@ cover-img: /assets/img/black-widow-cover.jpg
 thumbnail-img: /assets/img/black-widow-thumb.jpg
 share-img: /assets/img/path.jpg
 categories: [review,movie]
-tags: [movie,review,marvel,mcu,ChatGPT]
+tags: [movie,review,marvel,mcu,"2021"]
 comments: false
 ---
 

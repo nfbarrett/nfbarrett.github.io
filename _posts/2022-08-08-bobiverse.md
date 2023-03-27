@@ -3,7 +3,7 @@ layout: post
 title:  "📖 Bobiverse Series"
 subtitle:
 categories: [review,book,audible,ChatGPT]
-tags: [book,science-fiction,fiction,fantasy,adult,thriller,science-fiction-fantasy,mystery,adventure,comedy,"2021",audible,ChatGPT,dennis e. taylor]
+tags: [book,science-fiction,fiction,fantasy,adult,thriller,science-fiction-fantasy,mystery,adventure,comedy,audible,ChatGPT,dennis e. taylor]
 comments: false
 ---
 
