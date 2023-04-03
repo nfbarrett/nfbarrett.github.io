@@ -24,7 +24,7 @@ Aliquam lacinia lacinia orci, a viverra libero iaculis eu. Praesent eu mattis le
 Film | Sneakerella
 Directed | Elizabeth Allen Rosenbaum
 Year | 2022
-My Rating | ⭐⭐⭐
+My Rating | ⭐⭐⭐★★
 
 This was honesty better than I expected. Yeah it’s the old story of Cinderella. But so is Seven Samuri/A Bug’s Life. This had a lot of fresh ideas and enjoyable moments to make the rehashed one’s feel fun. My kids liked it and I can see them wanting to dance in their new kicks.
 

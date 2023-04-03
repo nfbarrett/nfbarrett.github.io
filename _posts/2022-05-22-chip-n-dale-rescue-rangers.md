@@ -26,7 +26,7 @@ Aliquam lacinia lacinia orci, a viverra libero iaculis eu. Praesent eu mattis le
 Film | Chip ’n Dale: Rescue Rangers
 Directed | Akiva Schaffer
 Year | 2022
-My Rating | ⭐⭐⭐⭐
+My Rating | ⭐⭐⭐⭐★
 
 [Insert Review]
 
