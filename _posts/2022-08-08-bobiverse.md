@@ -4,7 +4,7 @@ title:  "📖 Bobiverse Series"
 subtitle:
 categories: [review,book,audible,ChatGPT]
 tags: [book,science-fiction,fiction,fantasy,adult,thriller,science-fiction-fantasy,mystery,adventure,comedy,audible,ChatGPT,dennis e. taylor]
-comments: false
+comments: true
 ---
 
 # Review

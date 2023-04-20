@@ -4,7 +4,7 @@ title:  "🎞️ Everything Everywhere All at Once (2022)"
 subtitle:
 categories: [review,movie]
 tags: [filmS,adventure,action,science-fiction,theater,"2022",lorem ipsum]
-comments: false
+comments: true
 ---
 
 # Review

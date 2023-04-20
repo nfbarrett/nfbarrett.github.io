@@ -4,7 +4,7 @@ title:  "🎞️ The Starling (2021)"
 subtitle:
 categories: [review,movie]
 tags: [movie, review]
-comments: false
+comments: true
 ---
 
 ----|----

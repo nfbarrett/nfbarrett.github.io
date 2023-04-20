@@ -3,7 +3,7 @@ layout: post
 title:  "👨 The Guardian"
 categories: [life]
 tags: [lego,guardian]
-comments: false
+comments: true
 ---
 
 > **Lego stop-motion recreations** Literally, our favourite thing in the world (this week). Ferris Bueller on YouTube is the current winner

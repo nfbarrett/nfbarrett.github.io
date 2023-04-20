@@ -4,7 +4,7 @@ title:  "🎞️ Citizen Kane (1941)"
 subtitle:
 categories: [review,movie,ChatGPT]
 tags: [film,drama,mystery,criterion,"1941",ChatGPT]
-comments: false
+comments: true
 ---
 
 # Review
