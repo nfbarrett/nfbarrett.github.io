@@ -4,7 +4,7 @@ title:  "🎞️ Black Widow (2021)"
 subtitle: "Director by Cate Shortland"
 categories: [review,movie]
 tags: [movie,review,marvel,mcu,"2021",ChatGPT]
-comments: false
+comments: true
 ---
 
 # Review
