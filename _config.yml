@@ -99,9 +99,9 @@ comments:
     issue_term: pathname
   # Giscus options › https://giscus.app
   giscus:
-    repo:             # <gh-username>/<repo>
-    repo_id:
-    category:
+    repo: nfbarrett/nfbarrett.github.io            # <gh-username>/<repo>
+    repo_id: R_kgDOHdGRVQ
+    category: 
     category_id:
     mapping:          # optional, default to 'pathname'
     input_position:   # optional, default to 'bottom'
