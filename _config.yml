@@ -102,7 +102,7 @@ comments:
     repo: nfbarrett/nfbarrett.github.io            # <gh-username>/<repo>
     repo_id: R_kgDOHdGRVQ
     category: General
-    category_id: general
+    category_id: DIC_kwDOHdGRVc4CV7vr
     mapping: pathname         # optional, default to 'pathname'
     input_position: top  # optional, default to 'bottom'
     lang: en            # optional, default to the value of `site.lang`
