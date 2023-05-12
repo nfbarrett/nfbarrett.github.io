@@ -12,7 +12,7 @@ comments: true
 Film | The Starling
 Directed | Theodore Melfi
 Year | 2021
-My Rating | ⭐⭐⭐★★
+My Rating | ★★★
 
 ### Review
 

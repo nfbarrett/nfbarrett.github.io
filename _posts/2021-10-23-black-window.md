@@ -26,7 +26,7 @@ In conclusion, Black Widow is a decent addition to the Marvel Cinematic Universe
 Film | Black Widow
 Director | Cate Shortland
 Year | 2021
-My Rating | ⭐⭐⭐★★
+My Rating | ★★★
 
 <details>
   <summary>Original from ChatGPT</summary>

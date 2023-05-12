@@ -59,5 +59,5 @@ In conclusion, Derek DelGaudio’s In & of Itself is a must-see for anyone looki
 Film | Derek DelGaudio’s In & of Itself
 Directed | Frank Oz
 Year | 2020
-My Rating | ⭐⭐⭐⭐★
+My Rating | ★★★★
 

@@ -55,7 +55,7 @@ In conclusion, the Bobiverse series is a must-read for anyone who loves science 
 Book | We Are Legion (We Are Bob)
 Auther | Dennis E. Taylor
 Year | 2016
-My Rating | ⭐⭐⭐
+My Rating | ★★★
 
 [Insert Review]
 
@@ -66,7 +66,7 @@ My Rating | ⭐⭐⭐
 Book | For We Are Many
 Auther | Dennis E. Taylor
 Year | 2017
-My Rating | ⭐⭐⭐
+My Rating | ★★★
 
 [Insert Review]
 
@@ -77,7 +77,7 @@ My Rating | ⭐⭐⭐
 Book | All These Worlds
 Auther | Dennis E. Taylor
 Year | 2017
-My Rating | ⭐⭐⭐
+My Rating | ★★★
 
 [Insert Review]
 
@@ -88,7 +88,7 @@ My Rating | ⭐⭐⭐
 Book | Heaven's River
 Auther | Dennis E. Taylor
 Year | 2020
-My Rating | ⭐⭐⭐
+My Rating | ★★★
 
 [Insert Review]
 

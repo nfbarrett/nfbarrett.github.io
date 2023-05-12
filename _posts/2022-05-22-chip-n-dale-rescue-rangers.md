@@ -3,11 +3,9 @@ layout: post
 title:  "🎞️ Chip ’n Dale: Rescue Rangers (2022)"
 subtitle:
 categories: [review,movie]
-tags: [film,mystery,family,animation,adventure,comedy,disney,stream,disney-plus,"2022",lorem ipsum,film]
+tags: [film,mystery,family,animation,adventure,comedy,disney,stream,disney-plus,"2022",lorem ipsum,review]
 comments: true
 ---
-
-
 
 # Review
 
@@ -21,13 +19,9 @@ Nullam id nibh cursus, elementum nibh eu, tincidunt lacus. Cras eu eros commodo,
 
 Aliquam lacinia lacinia orci, a viverra libero iaculis eu. Praesent eu mattis leo. Pellentesque elementum rhoncus lorem molestie lacinia. Quisque vestibulum eros eget ultrices congue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus in lacinia risus. Duis id enim sagittis, porta metus id, feugiat dui. Aliquam convallis nisl eros, eu accumsan enim efficitur consectetur. Fusce eu hendrerit tortor, sit amet posuere diam. Vivamus pellentesque tristique enim, sit amet fermentum arcu consectetur et. Donec in maximus ligula. Phasellus sed ipsum eget augue imperdiet consectetur. In fringilla, quam vel vulputate fermentum, purus quam tempor felis, nec interdum dui ligula ac lacus. 
 
-----|----
---: | :--
+# Film Details
 Film | Chip ’n Dale: Rescue Rangers
+--: | :--
 Directed | Akiva Schaffer
 Year | 2022
-My Rating | ⭐⭐⭐⭐★
-
-[Insert Review]
-
-[Originally posted on Letterboxd](https://letterboxd.com/nickbarrett/film/chip-n-dale-rescue-rangers/)
+My Rating | ★★★★

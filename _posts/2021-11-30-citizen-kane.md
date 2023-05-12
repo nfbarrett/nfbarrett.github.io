@@ -30,7 +30,7 @@ Overall, I rate Citizen Kane 3 out of 5 stars. The film’s technical innovation
 Film | Citizen Kane
 Directed | Orson Welles
 Year | 1941
-My Rating | ⭐⭐⭐★★
+My Rating | ★★★
 
 
 [Originally posted on Letterboxd](https://letterboxd.com/nickbarrett/film/citizen-kane/)

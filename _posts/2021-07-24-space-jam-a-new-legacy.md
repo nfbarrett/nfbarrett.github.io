@@ -26,6 +26,6 @@ My oldest daughter liked it. My youngest wanted to leave the theater 4 times.
 Film | Space Jam: A New Legacy
 Directed | Malcolm D. Lee
 Year | 2021
-My Rating | ⭐⭐★★★
+My Rating | ★★
 
 [Originally posted on Letterboxd](https://letterboxd.com/nickbarrett/film/space-jam-a-new-legacy/)

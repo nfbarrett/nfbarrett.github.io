@@ -7,6 +7,8 @@ tags: [filmS,adventure,action,science-fiction,theater,"2022",lorem ipsum]
 comments: true
 ---
 
+![image](https://a.ltrbxd.com/resized/film-poster/4/7/4/4/7/4/474474-everything-everywhere-all-at-once-0-230-0-345-crop.jpg)
+
 # Review
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus, quam id finibus fermentum, risus quam varius felis, nec porttitor sapien orci quis est. Donec mattis mi eget purus dictum, eu tincidunt risus rutrum. Suspendisse ac euismod ipsum. Nunc venenatis mattis dictum. Sed lobortis sagittis leo, eu dignissim massa efficitur vitae. Nam eu pretium ante. Suspendisse auctor, enim ac laoreet varius, enim felis dictum sem, in elementum erat nisi sit amet lorem. Sed et fringilla arcu, maximus pretium tellus.
@@ -19,13 +21,9 @@ Nullam id nibh cursus, elementum nibh eu, tincidunt lacus. Cras eu eros commodo,
 
 Aliquam lacinia lacinia orci, a viverra libero iaculis eu. Praesent eu mattis leo. Pellentesque elementum rhoncus lorem molestie lacinia. Quisque vestibulum eros eget ultrices congue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus in lacinia risus. Duis id enim sagittis, porta metus id, feugiat dui. Aliquam convallis nisl eros, eu accumsan enim efficitur consectetur. Fusce eu hendrerit tortor, sit amet posuere diam. Vivamus pellentesque tristique enim, sit amet fermentum arcu consectetur et. Donec in maximus ligula. Phasellus sed ipsum eget augue imperdiet consectetur. In fringilla, quam vel vulputate fermentum, purus quam tempor felis, nec interdum dui ligula ac lacus. 
 
-----|----
---: | :--
+# Film Details
 Film | Everything Everywhere All at Once
+--: | :--
 Directed | Daniel Scheinert, Daniel Kwan
 Year | 2022
-My Rating | ⭐⭐⭐½★★
-
-
-
-[Originally posted on Letterboxd](https://letterboxd.com/nickbarrett/film/everything-everywhere-all-at-once/)
+My Rating | ★★★½
