@@ -10,8 +10,9 @@ comments: true
 # Review
 
 # Game Details
-Game | Vampire Survivors
---: | :--
-Directed | Name
-Year | 2021
-My Rating | ★★★★★
+
+Game|Vampire Survivors
+--:|:--
+Directed|Name
+Year|2021
+My Rating|★★★★★
