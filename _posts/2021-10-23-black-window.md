@@ -21,12 +21,12 @@ In conclusion, Black Widow is a decent addition to the Marvel Cinematic Universe
 
 [Originally posted on Letterboxd](https://letterboxd.com/nickbarrett/film/black-widow/)
 
-----|----
---: | :--
-Film | Black Widow
-Director | Cate Shortland
-Year | 2021
-My Rating | ★★★
+
+Film|Black Widow
+--:|:--
+Director|Cate Shortland
+Year|2021
+My Rating|★★★
 
 <details>
   <summary>Original from ChatGPT</summary>
