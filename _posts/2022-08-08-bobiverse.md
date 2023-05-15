@@ -50,46 +50,40 @@ In conclusion, the Bobiverse series is a must-read for anyone who loves science 
 
 ![image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493518741l/35014337._SY475_.jpg)
 
-----|----
---: | :--
-Book | We Are Legion (We Are Bob)
-Auther | Dennis E. Taylor
-Year | 2016
-My Rating | ★★★
+Book|We Are Legion (We Are Bob)
+--:|:--
+Auther|Dennis E. Taylor
+Year|2016
+My Rating|★★★
 
 [Insert Review]
 
 ![image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654566852l/34153598._SY475_.jpg)
 
-----|----
---: | :--
-Book | For We Are Many
-Auther | Dennis E. Taylor
-Year | 2017
-My Rating | ★★★
+Book|For We Are Many
+--:|:--
+Auther|Dennis E. Taylor
+Year|2017
+My Rating|★★★
 
 [Insert Review]
 
 ![image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654566914l/35506021._SY475_.jpg)
 
-----|----
---: | :--
-Book | All These Worlds
-Auther | Dennis E. Taylor
-Year | 2017
-My Rating | ★★★
+Book|All These Worlds
+--:|:--
+Auther|Dennis E. Taylor
+Year|2017
+My Rating|★★★
 
 [Insert Review]
 
 ![image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1606617336l/56078386._SY475_.jpg)
 
-----|----
---: | :--
-Book | Heaven's River
-Auther | Dennis E. Taylor
-Year | 2020
-My Rating | ★★★
+Book|Heaven's River
+--:|:--
+Auther|Dennis E. Taylor
+Year|2020
+My Rating|★★★
 
 [Insert Review]
-
-<a href="https://www.goodreads.com/review/list/38832432-nick">View all my reviews</a>

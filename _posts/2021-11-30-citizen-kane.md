@@ -7,6 +7,17 @@ tags: [film,drama,mystery,criterion,"1941",ChatGPT]
 comments: true
 ---
 
+![image](https://s3.amazonaws.com/criterion-production/films/5e58f4effd7ec074436c3cefccc76e6f/Yp6qC4kg4JLjjqcNdK8RAVM8eK2qnR_large.jpg)
+
+
+# Film Details
+
+Film|Citizen Kane
+--:|:--
+Directed|Orson Welles
+Year|1941
+My Rating|★★★
+
 # Review
 
 Citizen Kane: A Timeless Classic on Criterion Blu-Ray
@@ -22,15 +33,6 @@ Despite its many merits, Citizen Kane is not without its flaws. The film’s nar
 Despite these flaws, Citizen Kane remains an important and influential film that is well worth watching. For fans of cinema, the Criterion Blu-Ray release of Citizen Kane is an absolute must-have.
 
 Overall, I rate Citizen Kane 3 out of 5 stars. The film’s technical innovations, exceptional storytelling, and brilliant performances make it a timeless classic, but its flaws and heavy-handed politics prevent it from being a perfect film. Nevertheless, Citizen Kane is a film that is well worth experiencing, and the Criterion Blu-Ray release is the best way to do so.
-
-![image](https://s3.amazonaws.com/criterion-production/films/5e58f4effd7ec074436c3cefccc76e6f/Yp6qC4kg4JLjjqcNdK8RAVM8eK2qnR_large.jpg)
-
-----|----
---: | :--
-Film | Citizen Kane
-Directed | Orson Welles
-Year | 1941
-My Rating | ★★★
 
 
 [Originally posted on Letterboxd](https://letterboxd.com/nickbarrett/film/citizen-kane/)

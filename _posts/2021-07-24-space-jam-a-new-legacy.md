@@ -9,9 +9,15 @@ comments: true
 
 ![image](https://a.ltrbxd.com/resized/film-poster/3/1/4/8/8/3/314883-space-jam-a-new-legacy-0-230-0-345-crop.jpg)
 
-# Review
+# Film Details
 
->! This is spoiler text
+Film|Space Jam: A New Legacy
+--:|:--
+Directed|Malcolm D. Lee
+Year|2021
+My Rating|★★
+
+# Review
 
 _This review may contain spoilers._
 
@@ -21,11 +27,5 @@ But also too grownup. I get WB wants to always remind us what IP (intellectual p
 
 My oldest daughter liked it. My youngest wanted to leave the theater 4 times.
 
-----|----
---: | :--
-Film | Space Jam: A New Legacy
-Directed | Malcolm D. Lee
-Year | 2021
-My Rating | ★★
 
 [Originally posted on Letterboxd](https://letterboxd.com/nickbarrett/film/space-jam-a-new-legacy/)

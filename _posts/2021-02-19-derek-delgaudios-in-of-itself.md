@@ -9,6 +9,14 @@ comments: true
 
 ![image](https://a.ltrbxd.com/resized/film-poster/6/0/5/8/3/8/605838-in-of-itself-0-230-0-345-crop.jpg)
 
+# Film Details
+
+Film|Derek DelGaudio’s In & of Itself
+--:|:--
+Directed|Frank Oz
+Year|2020
+My Rating|★★★★
+
 # Review
 
 Such a unique experience. I know I will never get the same experience as being a member of the audience. But it still felt profound to see.
@@ -54,10 +62,4 @@ In conclusion, Derek DelGaudio’s In & of Itself is a must-see for anyone looki
 </details>
 
 
-----|----
---: | :--
-Film | Derek DelGaudio’s In & of Itself
-Directed | Frank Oz
-Year | 2020
-My Rating | ★★★★
 

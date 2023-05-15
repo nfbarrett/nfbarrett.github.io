@@ -7,6 +7,16 @@ tags: [movie,review,marvel,mcu,"2021",ChatGPT]
 comments: true
 ---
 
+![image](https://a.ltrbxd.com/resized/film-poster/4/2/7/8/0/7/427807-black-widow-0-230-0-345-crop.jpg?v=691395e563)
+
+# Film Details
+
+Film|Black Widow
+--:|:--
+Director|Cate Shortland
+Year|2021
+My Rating|★★★
+
 # Review
 
 Black Widow is the latest addition to the Marvel Cinematic Universe and a much-awaited movie for all Marvel fans. The movie stars Scarlett Johansson as Natasha Romanoff, the titular character, and takes us through her past and how she became the Black Widow.
@@ -20,13 +30,6 @@ However, the movie does have its flaws, and some of the plot points could have b
 In conclusion, Black Widow is a decent addition to the Marvel Cinematic Universe, and it's good to see the character getting a standalone movie. Although it has its flaws, it's still an enjoyable watch, and the action and performances make it worth the time.
 
 [Originally posted on Letterboxd](https://letterboxd.com/nickbarrett/film/black-widow/)
-
-
-Film|Black Widow
---:|:--
-Director|Cate Shortland
-Year|2021
-My Rating|★★★
 
 <details>
   <summary>Original from ChatGPT</summary>

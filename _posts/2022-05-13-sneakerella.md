@@ -9,6 +9,14 @@ comments: true
 
 ![image](https://a.ltrbxd.com/resized/film-poster/6/7/6/8/5/7/676857-sneakerella-0-230-0-345-crop.jpg)
 
+# Film Details
+
+Film|Sneakerella
+--:|:--
+Directed|Elizabeth Allen Rosenbaum
+Year|2022
+My Rating|★★★
+
 # Review
 
 Sneakerella is a fun and heartwarming film that puts a fresh spin on the classic Cinderella story. The cast is great, the music is catchy, and the dancing is top-notch. My kids also loved it, and they've been begging me to take them to see it again.
@@ -22,9 +30,3 @@ Here are some of the things I liked about Sneakerella:
 
 If you're looking for a fun and heartwarming film to watch with your family, I highly recommend Sneakerella. It's a great way to spend a Saturday afternoon or evening.
 
-# Film Details
-Film | Sneakerella
---: | :--
-Directed | Elizabeth Allen Rosenbaum
-Year | 2022
-My Rating | ★★★
