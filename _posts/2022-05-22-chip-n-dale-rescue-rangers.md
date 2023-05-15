@@ -7,7 +7,7 @@ tags: [film,mystery,family,animation,adventure,comedy,disney,stream,disney-plus,
 comments: true
 ---
 
-![Chip ’n Dale: Rescue Rangers](https://a.ltrbxd.com/resized/film-poster/3/5/4/5/4/1/354541-chip-n-dale-rescue-rangers-0-230-0-345-crop.jpg?v=700192d6e2)
+![Chip ’n Dale: Rescue Rangers](https://a.ltrbxd.com/resized/film-poster/3/5/4/5/4/1/354541-chip-n-dale-rescue-rangers-0-230-0-345-crop.jpg)
 
 # Film Details
 

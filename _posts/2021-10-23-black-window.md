@@ -7,7 +7,7 @@ tags: [movie,review,marvel,mcu,"2021",ChatGPT]
 comments: true
 ---
 
-![image](https://a.ltrbxd.com/resized/film-poster/4/2/7/8/0/7/427807-black-widow-0-230-0-345-crop.jpg?v=691395e563)
+![image](https://a.ltrbxd.com/resized/film-poster/4/2/7/8/0/7/427807-black-widow-0-230-0-345-crop.jpg)
 
 # Film Details
 
