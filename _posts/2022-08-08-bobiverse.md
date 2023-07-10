@@ -5,6 +5,8 @@ subtitle:
 categories: [review,book,audible,ChatGPT]
 tags: [book,science-fiction,fiction,fantasy,adult,thriller,science-fiction-fantasy,mystery,adventure,comedy,audible,ChatGPT,dennis e. taylor]
 comments: true
+image:
+  path: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493518741l/35014337._SY475_.jpg
 ---
 
 # Review

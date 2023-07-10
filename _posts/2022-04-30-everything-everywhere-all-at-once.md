@@ -5,9 +5,9 @@ subtitle:
 categories: [review,movie]
 tags: [filmS,adventure,action,science-fiction,theater,"2022",lorem ipsum]
 comments: true
+image:
+  path: https://a.ltrbxd.com/resized/film-poster/4/7/4/4/7/4/474474-everything-everywhere-all-at-once-0-230-0-345-crop.jpg
 ---
-
-![image](https://a.ltrbxd.com/resized/film-poster/4/7/4/4/7/4/474474-everything-everywhere-all-at-once-0-230-0-345-crop.jpg)
 
 # Film Details
 

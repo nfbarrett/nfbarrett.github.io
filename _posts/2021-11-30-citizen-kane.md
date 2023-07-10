@@ -5,10 +5,9 @@ subtitle:
 categories: [review,movie,ChatGPT]
 tags: [film,drama,mystery,criterion,"1941",ChatGPT]
 comments: true
+image:
+  path: https://s3.amazonaws.com/criterion-production/films/5e58f4effd7ec074436c3cefccc76e6f/Yp6qC4kg4JLjjqcNdK8RAVM8eK2qnR_large.jpg
 ---
-
-![image](https://s3.amazonaws.com/criterion-production/films/5e58f4effd7ec074436c3cefccc76e6f/Yp6qC4kg4JLjjqcNdK8RAVM8eK2qnR_large.jpg)
-
 
 # Film Details
 

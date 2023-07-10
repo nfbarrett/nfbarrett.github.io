@@ -5,9 +5,9 @@ subtitle:
 categories: [review,movie]
 tags: [movie, review]
 comments: true
+image:
+  path: https://a.ltrbxd.com/resized/film-poster/3/9/9/8/0/4/399804-the-starling-0-230-0-345-crop.jpg
 ---
-
-![image](https://a.ltrbxd.com/resized/film-poster/3/9/9/8/0/4/399804-the-starling-0-230-0-345-crop.jpg)
 
 # Film Details
 

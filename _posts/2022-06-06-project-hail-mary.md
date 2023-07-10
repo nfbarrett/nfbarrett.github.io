@@ -5,9 +5,10 @@ subtitle:
 categories: [review,book,audible]
 tags: [book,science-fiction,fiction,fantasy,adult,thriller,science-fiction-fantasy,mystery,adventure,comedy,"2021",audible,andy weir,Google-Bard,review]
 comments: true
+image:
+  path: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597695864i/54493401.jpg
 ---
 
-![image](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597695864i/54493401.jpg)
 
 # Book Details
 
