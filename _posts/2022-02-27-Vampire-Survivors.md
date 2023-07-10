@@ -5,9 +5,9 @@ subtitle:
 categories: [review,game]
 tags: [game,review,"2021"]
 comments: true
+image:
+  path: https://cdn.akamai.steamstatic.com/steam/apps/1794680/ss_6105ad3d6af52593c31d915bf39e91512611ea8e.1920x1080.jpg
 ---
-
-![image](https://cdn.akamai.steamstatic.com/steam/apps/1794680/ss_6105ad3d6af52593c31d915bf39e91512611ea8e.1920x1080.jpg)
 
 # Game Details
 

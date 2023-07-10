@@ -5,9 +5,9 @@ subtitle: Directed by Malcolm D. Lee
 categories: [review,movie]
 tags: [film,science-fiction,comedy,family,animation,theater,"2021",spoilers]
 comments: true
+image:
+  path: https://a.ltrbxd.com/resized/film-poster/3/1/4/8/8/3/314883-space-jam-a-new-legacy-0-230-0-345-crop.jpg
 ---
-
-![image](https://a.ltrbxd.com/resized/film-poster/3/1/4/8/8/3/314883-space-jam-a-new-legacy-0-230-0-345-crop.jpg)
 
 # Film Details
 
