@@ -3,10 +3,10 @@ layout: post
 title:  "🎞️ Chip ’n Dale: Rescue Rangers (2022)"
 subtitle:
 categories: [review,movie]
-tags: [film,mystery,family,animation,adventure,comedy,disney,stream,disney-plus,"2022",lorem ipsum,review]
+tags: [film,mystery,family,animation,adventure,comedy,disney,stream,disney-plus,"2022",lorem ipsum,review,"★★★★"]
 comments: true
 image:
-  path: https://a.ltrbxd.com/resized/film-poster/3/5/4/5/4/1/354541-chip-n-dale-rescue-rangers-0-230-0-345-crop.jpg
+  path: https://a.ltrbxd.com/resized/film-poster/3/5/4/5/4/1/354541-chip-n-dale-rescue-rangers-0-500-0-750-crop.jpg
 ---
 
 # Film Details

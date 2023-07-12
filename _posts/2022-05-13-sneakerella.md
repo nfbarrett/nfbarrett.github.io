@@ -3,10 +3,10 @@ layout: post
 title:  "🎞️ Sneakerella (2022)"
 subtitle:
 categories: [review,movie]
-tags: [film,Scomedy,family,music,disney,stream,disney-plus,"2022",Google-Bard,review]
+tags: [film,Scomedy,family,music,disney,stream,disney-plus,"2022",Google-Bard,review,"★★★"]
 comments: true
 image:
-  path: https://a.ltrbxd.com/resized/film-poster/6/7/6/8/5/7/676857-sneakerella-0-230-0-345-crop.jpg
+  path: https://a.ltrbxd.com/resized/film-poster/6/7/6/8/5/7/676857-sneakerella-0-500-0-750-crop.jpg
 ---
 
 # Film Details

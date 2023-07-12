@@ -3,10 +3,10 @@ layout: post
 title:  "🎞️ Black Widow (2021)"
 subtitle: "Director by Cate Shortland"
 categories: [review,movie]
-tags: [movie,review,marvel,mcu,"2021",ChatGPT]
+tags: [movie,review,marvel,mcu,"2021",ChatGPT,"★★★"]
 comments: true
 image:
-  path: https://a.ltrbxd.com/resized/film-poster/4/2/7/8/0/7/427807-black-widow-0-230-0-345-crop.jpg
+  path: https://a.ltrbxd.com/resized/film-poster/4/2/7/8/0/7/427807-black-widow-0-500-0-750-crop.jpg
 ---
 
 # Film Details

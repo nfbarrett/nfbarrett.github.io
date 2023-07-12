@@ -3,10 +3,10 @@ layout: post
 title:  "🎞️ Derek DelGaudio’s In & of Itself (2020)"
 subtitle: Directed by Frank Oz
 categories: [review,movie]
-tags: [film,stream,hulu,documentary,ChatGPT,"2020"]
+tags: [film,stream,hulu,documentary,ChatGPT,"2020","★★★★"]
 comments: true
 image:
-  path: https://a.ltrbxd.com/resized/film-poster/6/0/5/8/3/8/605838-in-of-itself-0-230-0-345-crop.jpg
+  path: https://a.ltrbxd.com/resized/film-poster/6/0/5/8/3/8/605838-in-of-itself-0-500-0-750-crop.jpg
 ---
 
 # Film Details
