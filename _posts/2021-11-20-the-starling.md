@@ -3,10 +3,10 @@ layout: post
 title:  "🎞️ The Starling (2021)"
 subtitle:
 categories: [review,movie]
-tags: [movie, review]
+tags: [movie, review,"★★★"]
 comments: true
 image:
-  path: https://a.ltrbxd.com/resized/film-poster/3/9/9/8/0/4/399804-the-starling-0-230-0-345-crop.jpg
+  path: https://a.ltrbxd.com/resized/film-poster/3/9/9/8/0/4/399804-the-starling-0-500-0-750-crop.jpg
 ---
 
 # Film Details
