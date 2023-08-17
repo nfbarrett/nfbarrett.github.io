@@ -8,18 +8,35 @@ order: 5
 
 ## EDUCATION
 ### Hennepin Technical College, Eden Prairie, MN — Associates
-Sept 2019 - Current
+Sept 2019 - Dec 2021
 
 Network Administrator / Cybersecurity
 
-### Brown College, Mendota Heights, MN — Bachelor of Science
+<!-- ### Brown College, Mendota Heights, MN — Bachelor of Science
 Jan 2004 - Dec 2007
 
-Interactive Media and Design
+Interactive Media and Design -->
+
+<!-- ### Century College, White Bear Lake, MN — Associates
+2002 - 2004
+
+Graphic Design and Web Development -->
+
+<!-- ### Cretin-Derham Hall, St. Paul, MN — High School Diploma
+1998 - 2002 -->
+
+## CERTIFICATIONS
 
 ## EXPERIENCE
+### Ridgeview Medical Center, Waconia, MN — IT Data Security Specialist
+April 2022 - Present
+
+### Netgain, St. Cloud, MN — Service Desk Representative
+November 2021 - October 2021
+
+
 ### Lifetime, Channhassen, MN — Service Desk
-Feb 2020 - Apl 2020
+Feb 2020 - April 2020
 
 Level 1 Service for troubleshooting computer issues for employees.
 
@@ -44,10 +61,10 @@ March 2012 - July 2015
 
 Developed customized reports and dashboards that met the strategic goals of the management team. Performed in-depth end-to-end analysis for the digital marketing team. Collaborated with internal team members to understand the business needs and translating to analytic requests and extracting data from a variety of sources to develop recommendations to improve business goals. Measure performance metrics in the capacity of site optimization, revenue attribution, business impact and the analysis of multi-channel behavior. Provided expert knowledge and insight into performance and trends of the online business, customer behavior, and other digital channels. Build a best practice around analytics and reporting by developing and monitoring KPIs to drive effective decisions on how to improve campaign performance, site functionality and enhance the user experience. Leverage a wide range of data to do regular and ad hoc social media, website performance, and E-commerce analysis to answer core business questions.
 
-### Digital River, Minnetonka, MN — Affiliate Program Analyst
+<!-- ### Digital River, Minnetonka, MN — Affiliate Program Analyst
 July 2011 - February 2012
 
-Developed and maintained daily,weekly, and monthly sales reporting for online clients. Supported the affiliate program management team to grow affiliate generated revenue. Work with clients and teams to develop and deploy affiliate marketing strategies and plans. Identify areas of improvement through data analysis and performance metrics to provide clients with direction to increase revenue. Work with designers to create and monitor the performance of banners, and other creative elements. Monitor, analyze and report on performance and growth of assigned affiliate sales program.
+Developed and maintained daily,weekly, and monthly sales reporting for online clients. Supported the affiliate program management team to grow affiliate generated revenue. Work with clients and teams to develop and deploy affiliate marketing strategies and plans. Identify areas of improvement through data analysis and performance metrics to provide clients with direction to increase revenue. Work with designers to create and monitor the performance of banners, and other creative elements. Monitor, analyze and report on performance and growth of assigned affiliate sales program. -->
 
 ## SKILLS
  - [x] Microsoft Excel
