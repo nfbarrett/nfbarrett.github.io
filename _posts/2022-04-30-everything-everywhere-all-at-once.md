@@ -3,7 +3,7 @@ layout: post
 title:  "🎞️ Everything Everywhere All at Once (2022)"
 subtitle:
 categories: [review,movie]
-tags: [filmS,adventure,action,science-fiction,theater,"2022",lorem ipsum,"★★★½"]
+tags: [filmS,adventure,action,science-fiction,theater,"2022",lorem ipsum]
 comments: true
 image:
   path: https://a.ltrbxd.com/resized/film-poster/4/7/4/4/7/4/474474-everything-everywhere-all-at-once-0-500-0-750-crop.jpg
