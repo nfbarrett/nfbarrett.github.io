@@ -32,7 +32,7 @@ Graphic Design and Web Development -->
 April 2022 - Present
 
 ### Netgain, St. Cloud, MN — Service Desk Representative
-November 2021 - October 2021
+November 2020 - October 2021
 
 
 ### Lifetime, Channhassen, MN — Service Desk
