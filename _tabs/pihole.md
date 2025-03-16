@@ -1,3 +1,8 @@
+---
+title: pihole
+icon: fas fa-info-circle
+order: 6
+---
 Address	Status	Comment	Group assignment	 
 
 ```https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
