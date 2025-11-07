@@ -4,6 +4,9 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 7.0"
 
+# Pin sass-embedded to avoid build failures with v1.93.3
+gem "sass-embedded", "~> 1.80", "< 1.93"
+
 group :test do
   gem 'html-proofer', '~> 5.1'
 end
