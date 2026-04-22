@@ -179,14 +179,16 @@ compress_html:
     envs: [development]
 
 exclude:
-  - '*.gem'
-  - '*.gemspec'
-  - tools
-  - README.md
-  - LICENSE
-  - gulpfile.js
-  - node_modules
-  - package*.json
+      - '*.gem'
+      - '*.gemspec'
+      - tools
+      - README.md
+      - LICENSE
+      - gulpfile.js
+      - node_modules
+      - package*.json
+      - .github
+      - Gemfile.lock
 
 jekyll-archives:
   enabled: [categories, tags]
