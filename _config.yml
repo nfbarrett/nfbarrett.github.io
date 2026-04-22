@@ -16,7 +16,7 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -25,11 +25,11 @@ title: Nick Barrett                          # the main title
 
 tagline: Stuff I care to share   # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+description: >-
+     Nick Barrett's personal site — thoughts on tech, software, and things worth sharing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://nickbarrett.me'
 
 github:
   username: nfbarrett             # change to your github username
@@ -40,7 +40,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Nick
+  name: Nick Barrett
   email: nick@nickbarrett.me             # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -83,7 +83,8 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/286987?v=4
+# avatar: https://avatars.githubusercontent.com/u/286987?v=4
+avatar: /assets/img/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
