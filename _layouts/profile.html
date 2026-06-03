@@ -1,0 +1,405 @@
+---
+layout: page
+---
+
+<style>
+  .profile-wrapper {
+    max-width: 680px;
+    margin: 0 auto;
+  }
+
+  /* ── Header ── */
+  .profile-header {
+    display: flex;
+    gap: 1.5rem;
+    align-items: flex-start;
+    padding: 1.5rem;
+    background: var(--card-bg, #f8f9fa);
+    border: 1px solid var(--border-color, #e9ecef);
+    border-radius: 14px;
+    margin-bottom: 1rem;
+  }
+
+  .profile-avatar {
+    width: 96px;
+    height: 96px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+    border: 3px solid var(--link-color, #4f86c6);
+  }
+
+  .profile-meta {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .profile-name {
+    margin: 0 0 0.2rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    border: none;
+    padding: 0;
+  }
+
+  .profile-tagline {
+    color: var(--text-muted-color, #6c757d);
+    font-size: 0.9rem;
+    margin-bottom: 0.8rem;
+  }
+
+  .profile-role-badge {
+    display: inline-block;
+    padding: 0.25rem 0.8rem;
+    background: var(--link-color, #4f86c6);
+    color: #fff;
+    border-radius: 999px;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    margin-bottom: 0.8rem;
+  }
+
+  .profile-categories {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .category-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.2rem 0.6rem;
+    border: 1.5px solid var(--link-color, #4f86c6);
+    border-radius: 999px;
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    color: var(--link-color, #4f86c6);
+  }
+
+  .category-rating {
+    background: var(--link-color, #4f86c6);
+    color: #fff;
+    border-radius: 999px;
+    padding: 0.1rem 0.35rem;
+    font-size: 0.62rem;
+    font-weight: 700;
+  }
+
+  /* ── Stats ── */
+  .profile-stats {
+    display: flex;
+    border: 1px solid var(--border-color, #e9ecef);
+    border-radius: 14px;
+    overflow: hidden;
+    margin-bottom: 1rem;
+  }
+
+  .stat-item {
+    flex: 1;
+    text-align: center;
+    padding: 1rem 0.5rem;
+    background: var(--card-bg, #f8f9fa);
+  }
+
+  .stat-item + .stat-item {
+    border-left: 1px solid var(--border-color, #e9ecef);
+  }
+
+  .stat-value {
+    font-size: 1.45rem;
+    font-weight: 800;
+    color: var(--link-color, #4f86c6);
+    line-height: 1;
+    margin-bottom: 0.3rem;
+  }
+
+  .stat-label {
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-muted-color, #6c757d);
+    font-weight: 700;
+  }
+
+  /* ── Sections ── */
+  .profile-section {
+    background: var(--card-bg, #f8f9fa);
+    border: 1px solid var(--border-color, #e9ecef);
+    border-radius: 14px;
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .profile-section-title {
+    margin: 0 0 1rem;
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--text-muted-color, #6c757d);
+    font-weight: 700;
+    border: none;
+    padding: 0;
+  }
+
+  /* ── Bio ── */
+  .profile-bio {
+    margin: 0;
+    line-height: 1.65;
+    font-size: 0.95rem;
+  }
+
+  /* ── Topic bars ── */
+  .topic-bar {
+    margin-bottom: 0.8rem;
+  }
+
+  .topic-bar:last-child { margin-bottom: 0; }
+
+  .topic-label {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.85rem;
+    font-weight: 500;
+    margin-bottom: 0.35rem;
+  }
+
+  .topic-pct {
+    color: var(--text-muted-color, #6c757d);
+    font-size: 0.8rem;
+  }
+
+  .topic-track {
+    height: 6px;
+    background: var(--border-color, #e9ecef);
+    border-radius: 999px;
+    overflow: hidden;
+  }
+
+  .topic-fill {
+    height: 100%;
+    background: var(--link-color, #4f86c6);
+    border-radius: 999px;
+  }
+
+  /* ── Links ── */
+  .profile-links {
+    display: flex;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+  }
+
+  .profile-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    padding: 0.4rem 1rem;
+    border: 1px solid var(--border-color, #e9ecef);
+    border-radius: 999px;
+    font-size: 0.85rem;
+    text-decoration: none !important;
+    color: inherit;
+    transition: border-color 0.15s, color 0.15s;
+  }
+
+  .profile-link:hover {
+    border-color: var(--link-color, #4f86c6);
+    color: var(--link-color, #4f86c6);
+  }
+
+  /* ── Connections ── */
+  .connections-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    gap: 0.75rem;
+  }
+
+  .connection-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem 0.5rem;
+    border: 1px solid var(--border-color, #e9ecef);
+    border-radius: 12px;
+    text-decoration: none !important;
+    color: inherit;
+    transition: border-color 0.15s, transform 0.15s;
+    text-align: center;
+  }
+
+  .connection-card:hover {
+    border-color: var(--link-color, #4f86c6);
+    transform: translateY(-2px);
+    color: inherit;
+  }
+
+  .connection-avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 0.5rem;
+  }
+
+  .connection-name {
+    font-weight: 600;
+    font-size: 0.82rem;
+    line-height: 1.25;
+    margin-bottom: 0.15rem;
+  }
+
+  .connection-handle {
+    color: var(--text-muted-color, #6c757d);
+    font-size: 0.68rem;
+    margin-bottom: 0.35rem;
+  }
+
+  .connection-role {
+    display: inline-block;
+    padding: 0.1rem 0.45rem;
+    background: rgba(79, 134, 198, 0.12);
+    color: var(--link-color, #4f86c6);
+    border-radius: 999px;
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  /* ── Dark mode overrides ── */
+  [data-mode="dark"] .profile-header,
+  [data-mode="dark"] .profile-stats,
+  [data-mode="dark"] .stat-item,
+  [data-mode="dark"] .profile-section {
+    background: rgba(255,255,255,0.04);
+    border-color: rgba(255,255,255,0.08);
+  }
+
+  [data-mode="dark"] .stat-item + .stat-item {
+    border-color: rgba(255,255,255,0.08);
+  }
+
+  [data-mode="dark"] .topic-track {
+    background: rgba(255,255,255,0.1);
+  }
+
+  [data-mode="dark"] .profile-link,
+  [data-mode="dark"] .connection-card {
+    border-color: rgba(255,255,255,0.1);
+  }
+
+  [data-mode="dark"] .connection-role {
+    background: rgba(79, 134, 198, 0.18);
+  }
+
+  /* ── Responsive ── */
+  @media (max-width: 480px) {
+    .profile-header { flex-direction: column; align-items: center; text-align: center; }
+    .profile-categories { justify-content: center; }
+  }
+</style>
+
+{% assign p = page.profile %}
+
+<div class="profile-wrapper">
+
+  <!-- Header card -->
+  <div class="profile-header">
+    {% if p.avatar %}
+      <img class="profile-avatar" src="{{ p.avatar }}" alt="{{ p.name }}">
+    {% endif %}
+    <div class="profile-meta">
+      <h2 class="profile-name">{{ p.name }}</h2>
+      {% if p.tagline %}<div class="profile-tagline">{{ p.tagline }}</div>{% endif %}
+      {% if p.role %}<div class="profile-role-badge">{{ p.role }}</div>{% endif %}
+      {% if p.categories %}
+      <div class="profile-categories">
+        {% for cat in p.categories %}
+        <span class="category-tag">
+          {{ cat.name }}{% if cat.rating %}<span class="category-rating">{{ cat.rating }}/10</span>{% endif %}
+        </span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+
+  <!-- Stats bar -->
+  {% if p.stats %}
+  <div class="profile-stats">
+    {% for stat in p.stats %}
+    <div class="stat-item">
+      <div class="stat-value">{{ stat.value }}</div>
+      <div class="stat-label">{{ stat.label }}</div>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <!-- Bio -->
+  {% if p.bio %}
+  <div class="profile-section">
+    <div class="profile-section-title">About</div>
+    <p class="profile-bio">{{ p.bio }}</p>
+  </div>
+  {% endif %}
+
+  <!-- Topics / interests -->
+  {% if p.topics %}
+  <div class="profile-section">
+    <div class="profile-section-title">Topics &amp; Interests</div>
+    {% for topic in p.topics %}
+    <div class="topic-bar">
+      <div class="topic-label">
+        <span>{{ topic.name }}</span>
+        <span class="topic-pct">{{ topic.pct }}%</span>
+      </div>
+      <div class="topic-track">
+        <div class="topic-fill" style="width: {{ topic.pct }}%"></div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <!-- Links -->
+  {% if p.links %}
+  <div class="profile-section">
+    <div class="profile-section-title">Links</div>
+    <div class="profile-links">
+      {% for link in p.links %}
+      <a href="{{ link.url }}" class="profile-link"
+         {% unless link.url contains "mailto" %}target="_blank" rel="noopener noreferrer"{% endunless %}>
+        {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
+        {{ link.label }}
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  <!-- Connections -->
+  {% if p.connections %}
+  <div class="profile-section">
+    <div class="profile-section-title">Connections</div>
+    <div class="connections-grid">
+      {% for conn in p.connections %}
+      <a href="{{ conn.url }}" class="connection-card" target="_blank" rel="noopener noreferrer">
+        {% if conn.avatar %}
+          <img src="{{ conn.avatar }}" alt="{{ conn.name }}" class="connection-avatar">
+        {% endif %}
+        <div class="connection-name">{{ conn.name }}</div>
+        {% if conn.handle %}<div class="connection-handle">{{ conn.handle }}</div>{% endif %}
+        {% if conn.role %}<div class="connection-role">{{ conn.role }}</div>{% endif %}
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {{ content }}
+
+</div>
