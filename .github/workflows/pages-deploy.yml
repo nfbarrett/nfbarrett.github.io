@@ -23,7 +23,12 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.1
-          bundler-cache: true
+          bundler-cache: false  # we manage bundler manually to control platform
+
+      - name: Lock platform and install gems
+        run: |
+          bundle lock --add-platform x86_64-linux
+          bundle install --jobs 4 --retry 3
 
       - name: Deploy
         run: bash tools/deploy.sh
